@@ -12,5 +12,5 @@ def say_hello(name):
 # {}が青字で無効化されてるっぽい
 
 
-say_hello("Joey")
+say_hello("mizuno")
 # nameが反応しない
