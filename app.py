@@ -9,8 +9,18 @@ def say_hello(name):
     print(f"Hi {name}")
 
 
-# {}が青字で無効化されてるっぽい
-
-
 say_hello("mizuno")
-# nameが反応しない
+
+
+def goodbye():
+    print("Good Bye")
+
+
+goodbye()
+
+
+def say_hi(name):
+    print(f"Hi {name}")
+
+
+say_hi("mizuno")
